@@ -1,2 +1,2 @@
-# Meet and coffe (DesafioLatam)
+# Meet and coffe
 Proyecto realizado para DesafioLatam.
